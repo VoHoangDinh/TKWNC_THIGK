@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "WEB_API.Controllers.NhomController",
+    "Method": "GetAll",
+    "RelativePath": "api/Nhom",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WEB_API.Controllers.ThietBiController",
+    "Method": "GetById",
+    "RelativePath": "api/ThietBi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WEB_API.Controllers.ThietBiController",
+    "Method": "GetByNhom",
+    "RelativePath": "api/ThietBi/TheoNhom/{maNhom}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maNhom",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

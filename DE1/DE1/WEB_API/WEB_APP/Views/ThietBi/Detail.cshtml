@@ -1,0 +1,23 @@
+﻿@model WEB_APP.Models.ThietBiViewModel
+@{ ViewBag.Title = "Chi tiết sản phẩm"; }
+
+@if (Model != null)
+{
+    <div class="detail-container">
+        <div class="detail-image">
+            <img src="@Url.Content("~/Content/images/" + Model.HINHANH)" alt="@Model.TENTHIETBI" />
+        </div>
+        <div class="detail-info">
+            <h3>Tên thiết bị: @Model.TENTHIETBI</h3>
+            <hr />
+            <p><strong>Mô tả:</strong> @Model.MOTA</p>
+            <h4>Đơn giá: @(Model.DONGIA.HasValue ? Model.DONGIA.Value.ToString("N0") : "0") VNĐ</h4>
+            <p><strong>Số lượng:</strong> <input type="number" value="1" style="width: 50px;" /></p>
+            <button class="btn-success">Giỏ hàng</button>
+        </div>
+    </div>
+}
+else
+{
+    <p>Không tìm thấy sản phẩm.</p>
+}

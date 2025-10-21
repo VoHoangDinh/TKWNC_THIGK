@@ -1,0 +1,628 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\migrations\\20251012064006_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\migrations\\20251012064006_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\data\\datacontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\data\\datacontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\controllers\\thietbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\controllers\\thietbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\models\\thietbirepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\models\\thietbirepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\models\\tbthietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\models\\tbthietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\models\\tbnhom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\models\\tbnhom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\controllers\\thietbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\controllers\\thietbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_app\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_app\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\content\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\content\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\views\\thietbi\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\views\\thietbi\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\views\\thietbi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\views\\thietbi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\views\\home\\_nhommenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\views\\home\\_nhommenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\models\\thietbiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\models\\thietbiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\models\\nhomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\models\\nhomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\web_app\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47263D2A-1783-45D9-9E9B-032AEA4E091E}|WEB_APP\\WEB_APP.csproj|solutionrelative:web_app\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\models\\ithietbirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\models\\ithietbirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\models\\nhomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\models\\nhomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|f:\\hoctap\\hk125\\tkwnc_thigk\\de1\\de1\\web_api\\web_api\\models\\inhomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22F972-6DC6-42F6-896F-EC68475994BE}|WEB_API\\WEB_API.csproj|solutionrelative:web_api\\models\\inhomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 788,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WEB_API\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "WEB_API\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:52:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThietBiController.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Controllers\\ThietBiController.cs",
+              "RelativeDocumentMoniker": "WEB_API\\Controllers\\ThietBiController.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Controllers\\ThietBiController.cs",
+              "RelativeToolTip": "WEB_API\\Controllers\\ThietBiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:40:38.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhomController.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Controllers\\NhomController.cs",
+              "RelativeDocumentMoniker": "WEB_API\\Controllers\\NhomController.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Controllers\\NhomController.cs",
+              "RelativeToolTip": "WEB_API\\Controllers\\NhomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:35:08.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext .cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Data\\DataContext .cs",
+              "RelativeDocumentMoniker": "WEB_API\\Data\\DataContext .cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Data\\DataContext .cs",
+              "RelativeToolTip": "WEB_API\\Data\\DataContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:27:45.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEB_APP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEB_APP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T07:08:04.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251012064006_InitialCreate.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Migrations\\20251012064006_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WEB_API\\Migrations\\20251012064006_InitialCreate.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Migrations\\20251012064006_InitialCreate.cs",
+              "RelativeToolTip": "WEB_API\\Migrations\\20251012064006_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:40:06.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WEB_API\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WEB_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T07:04:45.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThietBiRepository .cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\ThietBiRepository .cs",
+              "RelativeDocumentMoniker": "WEB_API\\Models\\ThietBiRepository .cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\ThietBiRepository .cs",
+              "RelativeToolTip": "WEB_API\\Models\\ThietBiRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:38:36.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TbThietBi.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\TbThietBi.cs",
+              "RelativeDocumentMoniker": "WEB_API\\Models\\TbThietBi.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\TbThietBi.cs",
+              "RelativeToolTip": "WEB_API\\Models\\TbThietBi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:31:39.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TbNhom.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\TbNhom.cs",
+              "RelativeDocumentMoniker": "WEB_API\\Models\\TbNhom.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\TbNhom.cs",
+              "RelativeToolTip": "WEB_API\\Models\\TbNhom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:31:17.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WEB_API\\WeatherForecast.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\WeatherForecast.cs",
+              "RelativeToolTip": "WEB_API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:35:29.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_API\\Program.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Program.cs",
+              "RelativeToolTip": "WEB_API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:27:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThietBiController.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Controllers\\ThietBiController.cs",
+              "RelativeDocumentMoniker": "WEB_APP\\Controllers\\ThietBiController.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Controllers\\ThietBiController.cs",
+              "RelativeToolTip": "WEB_APP\\Controllers\\ThietBiController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:06:50.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEB_APP\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEB_APP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:06:07.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\Web.config",
+              "RelativeDocumentMoniker": "WEB_APP\\Views\\Web.config",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\Web.config",
+              "RelativeToolTip": "WEB_APP\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-21T14:50:39.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Web.config",
+              "RelativeDocumentMoniker": "WEB_APP\\Web.config",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Web.config",
+              "RelativeToolTip": "WEB_APP\\Web.config",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-12T07:03:55.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WEB_APP\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WEB_APP\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T14:49:09.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WEB_API.csproj",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\WEB_API.csproj",
+              "RelativeDocumentMoniker": "WEB_API\\WEB_API.csproj",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\WEB_API.csproj",
+              "RelativeToolTip": "WEB_API\\WEB_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T06:27:53.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Dockerfile",
+              "RelativeDocumentMoniker": "WEB_API\\Dockerfile",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Dockerfile",
+              "RelativeToolTip": "WEB_API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-12T06:40:14.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB_API\\appsettings.json",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\appsettings.json",
+              "RelativeToolTip": "WEB_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T06:26:10.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IThietBiRepository.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\IThietBiRepository.cs",
+              "RelativeDocumentMoniker": "WEB_API\\Models\\IThietBiRepository.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\IThietBiRepository.cs",
+              "RelativeToolTip": "WEB_API\\Models\\IThietBiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:38:13.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NhomRepository.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\NhomRepository.cs",
+              "RelativeDocumentMoniker": "WEB_API\\Models\\NhomRepository.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\NhomRepository.cs",
+              "RelativeToolTip": "WEB_API\\Models\\NhomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:32:56.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "INhomRepository.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\INhomRepository.cs",
+              "RelativeDocumentMoniker": "WEB_API\\Models\\INhomRepository.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_API\\Models\\INhomRepository.cs",
+              "RelativeToolTip": "WEB_API\\Models\\INhomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:32:26.276Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Site.css",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Content\\css\\Site.css",
+              "RelativeDocumentMoniker": "WEB_APP\\Content\\css\\Site.css",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Content\\css\\Site.css",
+              "RelativeToolTip": "WEB_APP\\Content\\css\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-12T07:27:27.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Site.css",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Content\\Site.css",
+              "RelativeDocumentMoniker": "WEB_APP\\Content\\Site.css",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Content\\Site.css",
+              "RelativeToolTip": "WEB_APP\\Content\\Site.css",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAcwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-12T07:25:21.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_APP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WEB_APP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T07:24:26.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WEB_APP\\Global.asax.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Global.asax.cs",
+              "RelativeToolTip": "WEB_APP\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:23:59.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\ThietBi\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WEB_APP\\Views\\ThietBi\\Detail.cshtml",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\ThietBi\\Detail.cshtml",
+              "RelativeToolTip": "WEB_APP\\Views\\ThietBi\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T07:12:44.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\ThietBi\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_APP\\Views\\ThietBi\\Index.cshtml",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\ThietBi\\Index.cshtml",
+              "RelativeToolTip": "WEB_APP\\Views\\ThietBi\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T07:11:31.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_NhomMenu.cshtml",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\Home\\_NhomMenu.cshtml",
+              "RelativeDocumentMoniker": "WEB_APP\\Views\\Home\\_NhomMenu.cshtml",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Views\\Home\\_NhomMenu.cshtml",
+              "RelativeToolTip": "WEB_APP\\Views\\Home\\_NhomMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T07:09:22.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ThietBiViewModel.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Models\\ThietBiViewModel.cs",
+              "RelativeDocumentMoniker": "WEB_APP\\Models\\ThietBiViewModel.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Models\\ThietBiViewModel.cs",
+              "RelativeToolTip": "WEB_APP\\Models\\ThietBiViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:05:49.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NhomViewModel.cs",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Models\\NhomViewModel.cs",
+              "RelativeDocumentMoniker": "WEB_APP\\Models\\NhomViewModel.cs",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\Models\\NhomViewModel.cs",
+              "RelativeToolTip": "WEB_APP\\Models\\NhomViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:05:26.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "packages.config",
+              "DocumentMoniker": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\packages.config",
+              "RelativeDocumentMoniker": "WEB_APP\\packages.config",
+              "ToolTip": "F:\\HOCTAP\\HK125\\TKWNC_ThiGK\\DE1\\DE1\\WEB_API\\WEB_APP\\packages.config",
+              "RelativeToolTip": "WEB_APP\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-12T07:03:52.692Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

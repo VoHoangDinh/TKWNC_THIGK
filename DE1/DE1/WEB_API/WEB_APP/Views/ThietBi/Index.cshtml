@@ -1,0 +1,21 @@
+﻿@model IEnumerable<WEB_APP.Models.ThietBiViewModel>
+@{ ViewBag.Title = "Danh sách sản phẩm"; }
+
+<div class="product-grid">
+    @if (Model.Any())
+    {
+        foreach (var item in Model)
+        {
+            <div class="product-card">
+                <img src="@Url.Content("~/Content/images/" + item.HINHANH)" alt="@item.TENTHIETBI" />
+                <h4>@item.TENTHIETBI</h4>
+                <p>Giá: @(item.DONGIA.HasValue ? item.DONGIA.Value.ToString("N0") : "0") VNĐ</p>
+                @Html.ActionLink("Xem chi tiết", "Detail", "ThietBi", new { id = item.MATHIETBI }, new { @class = "btn" })
+            </div>
+        }
+    }
+    else
+    {
+        <p>Không có sản phẩm nào trong nhóm này.</p>
+    }
+</div>

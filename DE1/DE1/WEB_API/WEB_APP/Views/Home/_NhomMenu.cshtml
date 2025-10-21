@@ -1,0 +1,8 @@
+﻿@model IEnumerable<WEB_APP.Models.NhomViewModel>
+
+<ul class="menu-list">
+    @foreach (var item in Model)
+    {
+        <li>@Html.ActionLink(item.TENNHOM, "Index", "ThietBi", new { maNhom = item.MANHOM }, null)</li>
+    }
+</ul>
