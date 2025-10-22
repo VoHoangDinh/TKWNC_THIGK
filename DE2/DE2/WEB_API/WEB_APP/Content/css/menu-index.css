@@ -1,0 +1,75 @@
+﻿/* =================================================================== */
+/* FILE: MENU-INDEX.CSS - CSS CHO TRANG DANH SÁCH MÓN ĂN (NHÀ HÀNG)  */
+/* =================================================================== */
+
+.content-column h2 { /* Tiêu đề "Danh sách món ăn" */
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #f39c12;
+    padding-bottom: 10px;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); /* Tối ưu lưới */
+    gap: 30px; /* Tăng khoảng cách */
+}
+
+.product-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px; /* Bo góc nhiều hơn */
+    background-color: #fff;
+    padding: 0; /* Bỏ padding cũ */
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    overflow: hidden; /* Quan trọng để bo góc ảnh */
+    display: flex;
+    flex-direction: column;
+}
+
+    .product-card:hover {
+        transform: translateY(-8px); /* Nhấc lên rõ hơn */
+        box-shadow: 0 12px 25px rgba(0,0,0,0.12);
+    }
+
+    .product-card img {
+        width: 100%; /* Ảnh chiếm hết chiều rộng */
+        height: 180px;
+        object-fit: cover; /* Ảnh lấp đầy, có thể bị cắt */
+        /* không cần border-radius ở đây vì đã có overflow: hidden */
+    }
+
+    .product-card h4 {
+        font-size: 17px;
+        font-weight: 600;
+        color: #333;
+        margin: 15px 10px 5px;
+        min-height: 45px; /* Giữ chiều cao tên */
+    }
+
+    .product-card p {
+        color: #e74c3c;
+        font-weight: bold;
+        font-size: 19px;
+        margin-top: auto;
+        margin-bottom: 15px;
+    }
+
+    .product-card .btn {
+        display: block; /* Nút chiếm hết chiều rộng */
+        background: linear-gradient(to right, #e74c3c, #c0392b);
+        color: white;
+        padding: 12px 15px;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: bold;
+        border-radius: 0 0 10px 10px; /* Chỉ bo góc dưới */
+        transition: background 0.2s;
+        text-transform: uppercase;
+    }
+
+        .product-card .btn:hover {
+            background: linear-gradient(to right, #c0392b, #e74c3c);
+        }

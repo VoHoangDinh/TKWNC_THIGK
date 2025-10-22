@@ -1,0 +1,8 @@
+﻿@model IEnumerable<WEB_APP.Models.DanhMucViewModel>
+
+<ul class="menu-list">
+    @foreach (var item in Model)
+    {
+        <li>@Html.ActionLink(item.TENDANHMUC, "Index", "Menu", new { idDanhMuc = item.IDDANHMUC }, null)</li>
+    }
+</ul>

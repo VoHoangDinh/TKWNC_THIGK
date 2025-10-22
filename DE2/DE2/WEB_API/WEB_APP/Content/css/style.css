@@ -1,0 +1,130 @@
+﻿/* =================================================================== */
+/* FILE: STYLE.CSS - CSS CHUNG CHO LAYOUT CHÍNH (NHÀ HÀNG)           */
+/* =================================================================== */
+
+/* --- CÀI ĐẶT CHUNG & FONT --- */
+body {
+    display: flex; /* Turn body into a flex container */
+    flex-direction: column; /* Stack children vertically (header, container, footer) */
+    min-height: 100vh; /* Make body at least the full height of the viewport */
+    /* Keep existing body styles */
+    background: linear-gradient(to bottom right, #ffe259, #ffa751);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    color: #444;
+}
+
+a {
+    text-decoration: none;
+    color: #d35400;
+    transition: color 0.2s;
+}
+    /* Màu cam đậm cho link */
+    a:hover {
+        text-decoration: none;
+        color: #e74c3c;
+    }
+/* Màu đỏ cam khi hover */
+
+#main_container {
+    display: flex; /* Also make the main container a flex container */
+    flex-direction: column; /* Stack header, main_content, footer vertically */
+    flex-grow: 1; /* Allow the main container to grow and push the footer down */
+    /* Keep existing #main_container styles */
+    width: 1100px;
+    margin: 30px auto;
+    background-color: #ffffff;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#main_content {
+    flex-grow: 1; /* Make the main content area grow to push the footer */
+    /* Keep existing #main_content styles */
+    display: grid;
+    grid-template-columns: 220px 1fr; /* Adjust columns if needed, assuming no right column now */
+    gap: 25px;
+    padding: 25px;
+}
+
+/* --- HEADER --- */
+.header {
+    background: linear-gradient(to right, #e74c3c, #c0392b); /* Gradient Đỏ Cam */
+    color: white;
+    padding: 25px;
+    text-align: center;
+    font-size: 2.5em; /* Tăng cỡ chữ header */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3); /* Đổ bóng chữ */
+    border-bottom: 5px solid #f39c12; /* Viền vàng dưới header */
+}
+
+/* --- BỐ CỤC 3 CỘT --- */
+.container {
+    display: flex;
+    padding: 25px;
+    gap: 25px;
+}
+
+.menu-column {
+    flex: 0 0 220px; /* Cột menu */
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+}
+
+.content-column {
+    flex: 1; /* Cột nội dung chính */
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+}
+
+/* --- MENU DANH MỤC (CỘT TRÁI) --- */
+.menu-title {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: #c0392b; /* Màu đỏ cam */
+    border-bottom: 2px solid #f39c12; /* Viền vàng */
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.menu-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .menu-list a {
+        display: block;
+        padding: 12px 15px;
+        color: #555;
+        text-decoration: none;
+        border-radius: 5px;
+        margin-bottom: 5px;
+        transition: all 0.25s ease-in-out;
+    }
+
+        .menu-list a:hover {
+            background-color: #e74c3c;
+            color: white;
+            transform: translateX(5px); /* Hiệu ứng trượt nhẹ khi hover */
+            box-shadow: 0 4px 8px rgba(231, 76, 60, 0.3);
+        }
+
+/* --- FOOTER --- */
+.footer {
+    flex-shrink: 0; /* Prevent footer from shrinking */
+    /* Keep existing footer styles */
+    clear: both;
+    background-color: #34495e;
+    color: #bdc3c7;
+    padding: 20px;
+    text-align: center;
+    font-size: 12px;
+}

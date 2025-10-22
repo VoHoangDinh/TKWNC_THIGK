@@ -1,0 +1,138 @@
+﻿/* =================================================================== */
+/* FILE: MENU-DETAIL.CSS - CSS CHO TRANG CHI TIẾT MÓN ĂN (NHÀ HÀNG)  */
+/* =================================================================== */
+
+.content-column h2 { /* Tiêu đề "Chi tiết món ăn" */
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #f39c12;
+    padding-bottom: 10px;
+}
+
+.detail-container { /* Thẻ div bao ngoài */
+    display: flex;
+    gap: 40px;
+}
+
+.detail-image {
+    flex: 0 0 45%;
+    align-self: flex-start;
+}
+
+    .detail-image img {
+        width: 100%;
+        border-radius: 12px;
+        border: 1px solid #e0e0e0;
+        box-shadow: 0 8px 30px rgba(0,0,0,0.15);
+    }
+
+.detail-info { /* Cột thông tin bên phải */
+    flex: 1;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+    .detail-info h3 { /* Tên món ăn */
+        font-size: 30px;
+        font-weight: 700;
+        color: #2c3e50;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+
+    .detail-info h4 { /* Giá */
+        font-size: 32px;
+        color: #e74c3c;
+        font-weight: 700;
+        margin-bottom: 25px;
+    }
+
+    .detail-info p strong { /* Chữ "Mô tả:" */
+        display: block;
+        font-size: 16px;
+        color: #333;
+        margin-bottom: 8px;
+    }
+
+.detail-description { /* Phần text mô tả */
+    margin-bottom: 30px;
+    line-height: 1.8;
+    color: #555;
+    font-size: 15px;
+    border-left: 4px solid #f39c12; /* Viền vàng */
+    padding-left: 20px;
+}
+
+.cart-form { /* Form thêm vào giỏ */
+    margin-top: auto;
+    padding-top: 25px;
+    border-top: 1px solid #eee;
+}
+
+.cart-controls { /* Div chứa label, input, button */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+    .cart-controls label {
+        font-weight: bold;
+        font-size: 15px;
+        color: #333;
+    }
+
+.quantity-input { /* Ô nhập số lượng */
+    width: 70px;
+    height: 48px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: all 0.2s ease;
+}
+
+    .quantity-input:focus {
+        border-color: #e74c3c;
+        box-shadow: 0 0 0 0.2rem rgba(231, 76, 60, 0.25);
+        outline: none;
+    }
+
+.btn-success { /* Nút "Giỏ hàng" */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg, #e74c3c, #c0392b); /* Gradient đỏ cam */
+    color: white !important;
+    height: 50px;
+    padding: 0 30px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(231, 76, 60, 0.3);
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+}
+
+    .btn-success:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 7px 15px rgba(231, 76, 60, 0.4);
+    }
+
+/* Link "Quay lại danh sách" */
+.back-link {
+    display: inline-block;
+    margin-top: 30px;
+    color: #555;
+    font-size: 14px;
+}
+
+    .back-link:hover {
+        color: #e74c3c;
+    }

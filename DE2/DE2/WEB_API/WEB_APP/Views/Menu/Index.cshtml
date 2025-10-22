@@ -1,0 +1,19 @@
+﻿@model IEnumerable<WEB_APP.Models.MenuViewModel>
+@{ ViewBag.Title = "Danh sách món ăn"; }
+
+@section Styles {
+    <link href="@Url.Content("~/Content/css/menu-index.css")" rel="stylesheet" type="text/css" />
+}
+
+<h2>Danh sách món ăn</h2>
+<div class="product-grid">
+    @foreach (var item in Model)
+    {
+        <div class="product-card">
+            <img src="@Url.Content("~/Content/images/" + (item.HINHANH ?? "no-image.png"))" alt="@item.TENMON" />
+            <h4>Tên món: @item.TENMON</h4>
+            <p>Giá: @string.Format("{0:N0}", item.DONGIA) VNĐ</p>
+            @Html.ActionLink("Xem chi tiết", "Detail", "Menu", new { id = item.IDMON }, new { @class = "btn" })
+        </div>
+    }
+</div>

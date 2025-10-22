@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WEB_API\\WEB_API.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "WEB_APP\\WEB_APP.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

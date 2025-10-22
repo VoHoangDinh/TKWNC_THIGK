@@ -1,0 +1,41 @@
+﻿@model WEB_APP.Models.MenuViewModel
+@{ ViewBag.Title = Model.TENMON; }
+
+@section Styles {
+    <link href="@Url.Content("~/Content/css/menu-detail.css")" rel="stylesheet" type="text/css" />
+}
+
+@if (Model != null)
+{
+    <div class="prod_box_big">
+        <div class="center_prod_box_big">
+            @* Đổi tên class nếu cần khớp CSS *@
+            <div class="detail-image">
+                <img src="@Url.Content("~/Content/images/" + (Model.HINHANH ?? "no-image.png"))" alt="@Model.TENMON" />
+            </div>
+            <div class="detail-info">
+                <h3>@Model.TENMON</h3>
+                <h4>@string.Format("{0:N0}", Model.DONGIA) VNĐ</h4>
+                <p><strong>Mô tả:</strong></p>
+                <div class="detail-description">@Html.Raw(Model.MOTA?.Replace("\n", "<br />"))</div>
+
+                <div class="cart-controls">
+                    <label for="soLuong">Số lượng:</label>
+                    <input type="number" name="soLuong" id="soLuong" value="1" min="1" class="quantity-input" />
+
+                    @* Nút bấm giờ chỉ gọi hàm alert *@
+                    <button type="button" class="btn btn-success" onclick="alert('Tính năng chưa có');">
+                        Giỏ hàng
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <p>
+        @Html.ActionLink("« Quay lại danh sách", "Index", new { idDanhMuc = Model.IDDANHMUC }, new { @class = "back-link" })
+    </p>
+}
+else
+{
+    <h2>Không tìm thấy món ăn</h2>
+}

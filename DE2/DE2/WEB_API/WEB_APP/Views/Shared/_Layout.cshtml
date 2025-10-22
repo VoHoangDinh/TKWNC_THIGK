@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title - Nhà Hàng</title>
+    <link href="@Url.Content("~/Content/css/style.css")" rel="stylesheet" type="text/css" />
+    @RenderSection("Styles", required: false)
+</head>
+<body>
+    @* Body is now a flex container (column) *@
+    <div id="main_container">
+        @* This grows to push footer down *@
+        <div class="header">NHÀ HÀNG - PHAN VĂN KHÁNH</div>
+
+        <div id="main_content">
+            @* This grows inside main_container *@
+            <div class="menu-column">
+                @* Grid item 1 *@
+                <div class="menu-title">Danh mục Món</div>
+                @{ Html.RenderAction("DanhMucMenu", "Home"); }
+            </div>
+            <div class="content-column">
+                @* Grid item 2 *@
+                @RenderBody()
+            </div>
+        </div>
+
+        <div class="footer">
+            @* This stays at the bottom *@
+            &copy; @DateTime.Now.Year - COPYRIGHT@@
+        </div>
+    </div>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
